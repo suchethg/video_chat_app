@@ -6,9 +6,9 @@
 .myId {
   margin-right: 5rem;
   border-radius: 5px;
-  background: white; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #e2e2e2, #c9d6ff); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #e2e2e2, #c9d6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: white;
+  background: -webkit-linear-gradient(to right, #e2e2e2, #c9d6ff);
+  background: linear-gradient(to right, #e2e2e2, #c9d6ff);
 
   padding: 2rem;
   display: grid;
@@ -36,7 +36,7 @@
 }
 
 body {
-  background: white; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, white, blue); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, white, blue); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: white;
+  background: -webkit-linear-gradient(to right, white, blue);
+  background: linear-gradient(to right, white, blue);
 }
